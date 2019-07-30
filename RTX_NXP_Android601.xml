@@ -37,8 +37,8 @@
 <project path="device/generic/mini-emulator-arm64"	name="device/generic/mini-emulator-arm64"	revision="4f30226980039087b0d14de2c4dd0a1f37b9fd95"	groups="pdk"	/>	
 <project path="device/generic/mini-emulator-armv7-a-neon"	name="device/generic/mini-emulator-armv7-a-neon"	revision="f41c1e4e10574399c6798d286c22d03471217691"	groups="pdk"	/>	
 <project path="device/generic/mini-emulator-mips"	name="device/generic/mini-emulator-mips"	revision="3fdb24de40ca27da9a86f10f31314f2a13259db5"	groups="pdk"	/>	
-<project path="device/generic/mini-emulator-x86_64"	name="device/generic/mini-emulator-x86_64"	revision="65d59e2be2cfd713513a05d80a0f75794ab60579"	groups="pdk"	/>	
-<project path="device/generic/mini-emulator-x86"	name="device/generic/mini-emulator-x86"	revision="673aae8bd65d9708821c4062f6a0364a859e7ae4"	groups="pdk"	/>	
+<project path="device/generic/mini-emulator-x86_64"	name="device/generic/mini-emulator-x86_64"	revision="673aae8bd65d9708821c4062f6a0364a859e7ae4"	groups="pdk"	/>	
+<project path="device/generic/mini-emulator-x86"	name="device/generic/mini-emulator-x86"	revision="65d59e2be2cfd713513a05d80a0f75794ab60579"	groups="pdk"	/>	
 <project path="device/generic/mips"	name="device/generic/mips"	revision="bf07c7522e80eef53a58a49e5d05b8913d00d1a6"	groups="pdk"	/>	
 <project path="device/generic/qemu"	name="device/generic/qemu"	revision="3f30d51baf8d3c8afe4a2510f78a69c51b112760"	/>		
 <project path="device/generic/x86_64"	name="device/generic/x86_64"	revision="81ce753ec0014fe404c4eec3ac6d04504356a638"	groups="pdk"	/>	
