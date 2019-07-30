@@ -41,8 +41,8 @@
 <project path="device/generic/mini-emulator-x86"	name="device/generic/mini-emulator-x86"	revision="65d59e2be2cfd713513a05d80a0f75794ab60579"	groups="pdk"	/>	
 <project path="device/generic/mips"	name="device/generic/mips"	revision="bf07c7522e80eef53a58a49e5d05b8913d00d1a6"	groups="pdk"	/>	
 <project path="device/generic/qemu"	name="device/generic/qemu"	revision="3f30d51baf8d3c8afe4a2510f78a69c51b112760"	/>		
-<project path="device/generic/x86_64"	name="device/generic/x86_64"	revision="81ce753ec0014fe404c4eec3ac6d04504356a638"	groups="pdk"	/>	
-<project path="device/generic/x86"	name="device/generic/x86"	revision="138339be1da9b0f34befe3751b0bae874d7253db"	groups="pdk"	/>	
+<project path="device/generic/x86_64"	name="device/generic/x86_64"	revision="138339be1da9b0f34befe3751b0bae874d7253db"	groups="pdk"	/>	
+<project path="device/generic/x86"	name="device/generic/x86"	revision="81ce753ec0014fe404c4eec3ac6d04504356a638"	groups="pdk"	/>	
 <project path="device/google/accessory/arduino"	name="device/google/accessory/arduino"	revision="abc5159a3ca9dbb5c7e364a1eab99901a4440ac5"	groups="device"	/>	
 <project path="device/google/accessory/demokit"	name="device/google/accessory/demokit"	revision="7dfe7f89a3b174709c773fe319531006e46440d9"	groups="device"	/>	
 <project path="device/google/atv"	name="device/google/atv"	revision="7c939825540f6dcfd4b37932f0e0e0c6b10b4351"	groups="device,fugu,broadcom_pdk,generic_fs"	/>	
