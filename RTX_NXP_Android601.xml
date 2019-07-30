@@ -171,8 +171,8 @@
 <project path="external/libselinux"	name="platform/external/libselinux"	revision="943ed44a46ed95d557bf552b57fe61280a77489c"	groups="pdk"	/>	
 <project path="external/libssh2"	name="platform/external/libssh2"	revision="2bb40f2445cab3ba588efb29e1835cdba2b27248"	groups="pdk-cw-fs,pdk-fs"	/>	
 <project path="external/libunwind"	name="platform/external/libunwind"	revision="338c9755cfe3d009c3dfff7d108e2c3ddaa6f3bb"	groups="pdk"	/>	
-<project path="external/libusb-compat"	name="platform/external/libusb-compat"	revision="3a36cef7ef847d3839090a7c98eb961a602af55b"	groups="pdk-cw-fs,pdk-fs"	/>	
-<project path="external/libusb"	name="platform/external/libusb"	revision="6d4ab8939e4784b2b6eb63d992cc4d44f953bb41"	groups="pdk-cw-fs,pdk-fs"	/>	
+<project path="external/libusb-compat"	name="platform/external/libusb-compat"	revision="6d4ab8939e4784b2b6eb63d992cc4d44f953bb41"	groups="pdk-cw-fs,pdk-fs"	/>	
+<project path="external/libusb"	name="platform/external/libusb"	revision="3a36cef7ef847d3839090a7c98eb961a602af55b"	groups="pdk-cw-fs,pdk-fs"	/>	
 <project path="external/libutf"	name="platform/external/libutf"	revision="7469493bff47a84a6041cba80df50bbbe08cd656"	groups="pdk-cw-fs,pdk-fs"	/>	
 <project path="external/libvncserver"	name="platform/external/libvncserver"	revision="54fc82147d8ea715bf2864246453d325bf546608"	groups="pdk-cw-fs,pdk-fs"	/>	
 <project path="external/libvorbis"	name="platform/external/libvorbis"	revision="61a5b54ff699f0cd339121c14432d0d2517907b1"	groups="pdk-cw-fs,pdk-fs"	/>	
