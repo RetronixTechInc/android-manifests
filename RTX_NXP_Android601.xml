@@ -12,7 +12,7 @@
            remote="aosp"
            sync-j="4" />
            
-  <project remote="retronix-github" path="bootable/bootloader/uboot-imx" name="u-boot-rtx" revision="2c9154e5f94b7669fb5539c10b72ed5c3f78d1bc"/>
+  <project remote="retronix-github" path="bootable/bootloader/uboot-imx" name="u-boot-rtx" revision="RTX_NXP_Android601"/>
   <project remote="retronix-github" path="kernel_imx" name="linux-rtx" revision="RTX_NXP_Android601"/>
 
 <project path="abi/cpp"	name="platform/abi/cpp"	revision="36b381298a4efb7c293d394d8b1acbda68230989"	 groups="pdk" />				
