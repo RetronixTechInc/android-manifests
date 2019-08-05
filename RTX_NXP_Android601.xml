@@ -58,7 +58,6 @@
 <project path="device/sample"	name="device/sample"	revision="efaef57573a7832b72b985749d0e01f0cf93b71c"	groups="pdk"	/>	
 <project path="docs/source.android.com"	name="platform/docs/source.android.com"	revision="918070543c8989f1088953e525a22176eb00caa0"	groups="pdk-cw-fs,pdk-fs"	/>	
 <project path="external/aac"	name="platform/external/aac"	revision="2d435aa43323935bd8ed293f4f12cddfdee81eb3"	groups="pdk"	/>	
-<project path="external/android-clat"	name="platform/external/android-clat"	revision="35b34f09ab343ae8a75fcb9ff3cea180cf58992a"	groups="pdk-cw-fs,pdk-fs"	/>	
 <project path="external/android-mock"	name="platform/external/android-mock"	revision="c58b924d136b6d7e57d0b29636eb9ad87abbde0f"	groups="pdk-cw-fs,pdk-fs"	/>	
 <project path="external/androidplot"	name="platform/external/androidplot"	revision="c66727ebf001607cee14521c35bc852b55fd9845"	groups="pdk-cw-fs,pdk-fs"	/>	
 <project path="external/ant-glob"	name="platform/external/ant-glob"	revision="0f189400fd2a36bf11bfb058e7f3917eb7ed163a"	groups="pdk-cw-fs,pdk-fs"	/>	
