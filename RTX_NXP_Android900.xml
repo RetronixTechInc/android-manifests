@@ -8,9 +8,16 @@
   <remote name="retronix-github" 
            fetch="https://github.com/RetronixTechInc/" />
 
+  <remote  name="imx-linux-sdk"
+           fetch="https://source.codeaurora.org/external/imx/"
+           review="" />
+
   <default revision="refs/tags/android-9.0.0_r35"
            remote="aosp"
            sync-j="4" />
+
+  <project path="vendor/nxp-opensource/uboot-imx" name="uboot-imx" remote="imx-linux-sdk" revision="refs/tags/p9.0.0_2.3.0" />
+  <project path="vendor/nxp-opensource/kernel_imx" name="linux-imx" remote="imx-linux-sdk" revision="refs/tags/p9.0.0_2.3.0" />
 
   <project path="build/blueprint" name="platform/build/blueprint" groups="pdk,tradefed" />
   <project path="build/kati" name="platform/build/kati" groups="pdk,tradefed" />
