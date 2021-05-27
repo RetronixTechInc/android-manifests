@@ -25,8 +25,8 @@
   <project path="vendor/nxp/imx-firmware" name="imx-firmware" remote="imx-proprietary" revision="f6d0859f9435796f03ae93b70b5f92f4406bc56d" />
 
   <!-- For imx public git. -->
-  <project path="vendor/nxp-opensource/uboot-imx" name="uboot-imx" remote="retronix-github" revision="RTX_PICO_Android900" />
-  <project path="vendor/nxp-opensource/kernel_imx" name="linux-imx" remote="retronix-github" revision="RTX_PICO_Android900" />
+  <project path="vendor/nxp-opensource/uboot-imx" name="u-boot-rtx" remote="retronix-github" revision="RTX_PICO_Android900" />
+  <project path="vendor/nxp-opensource/kernel_imx" name="linux-rtx" remote="retronix-github" revision="RTX_PICO_Android900" />
 
   <project path="vendor/nxp-opensource/arm-trusted-firmware" name="imx-atf" remote="imx-linux-sdk" revision="refs/tags/p9.0.0_2.2.0-ga" />
   <project path="vendor/nxp-opensource/imx-lib" name="imx-lib" remote="imx-linux-sdk" revision="refs/tags/p9.0.0_2.2.0-ga" />
